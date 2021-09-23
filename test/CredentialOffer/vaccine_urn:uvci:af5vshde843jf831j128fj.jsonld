@@ -8,20 +8,6 @@
     "VaccinationCertificate"
   ],
   "id": "urn:uvci:af5vshde843jf831j128fj",
-  "name": [
-        {
-            "@language": "en",
-            "@value": "COVID-19 Vaccination Certificate"
-        },
-        {
-            "@language": "de",
-            "@value": "Wohnsitzbescheinigung"
-        },
-        {
-            "@language": "fr",
-            "@value": "Certificat de vaccination COVID-19"
-        }
-    ],
   "issuanceDate": "",
   "expirationDate": "2029-12-03T12:19:52Z",
   "issuer": "",
