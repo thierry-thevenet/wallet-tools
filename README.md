@@ -4,7 +4,7 @@
  test
 Tools for testing, issuer and presentaion simulator, registries, etc
 
-## Simulator
+## Simulators
 
-[Issuer simulator](https://talao.co/wallet/test/credentialOffer)
-[Verifier simulator](https://talao.co/wallet/test/presentationRequest)
+* [Issuer simulator](https://talao.co/wallet/test/credentialOffer)
+* [Verifier simulator](https://talao.co/wallet/test/presentationRequest)
