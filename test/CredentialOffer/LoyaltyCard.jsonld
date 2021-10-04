@@ -48,9 +48,9 @@
         "familyName": "Thevenet",
         "programName" : "Excellent",
         "issuedBy": {
-            "logo": "https://thewinespirit.co",
+            "logo": "",
             "address" : "28, rue du Saint Esprit, 31000 Toulouse, France",
-            "name": "The Wine Spririt"
+            "name": "The Fashion Spririt"
         },
         "givenName": "Thierry"
     },
@@ -72,7 +72,7 @@
     "name": [
         {
             "@language": "en",
-            "@value": "The Wine Spririt"
+            "@value": "The Fashion Spririt"
         },
         {
             "@language": "de",
@@ -80,7 +80,7 @@
         },
         {
             "@language": "fr",
-            "@value": "The Wine Spirit"
+            "@value": "The Fashion Spirit"
         }
     ]
 }
