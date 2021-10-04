@@ -66,7 +66,7 @@
     "name": [
         {
             "@language": "en",
-            "@value": "Affiliation card"
+            "@value": "Paris Football Club"
         },
         {
             "@language": "de",
@@ -74,7 +74,7 @@
         },
         {
             "@language": "fr",
-            "@value": "Carte d'adhérent"
+            "@value": "Paris Football Club"
         }
     ]
 }
