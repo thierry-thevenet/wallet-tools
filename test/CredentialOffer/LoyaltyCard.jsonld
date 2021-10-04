@@ -58,7 +58,7 @@
     "name": [
         {
             "@language": "en",
-            "@value": "Loyalty card"
+            "@value": "The Wine Spririt"
         },
         {
             "@language": "de",
@@ -66,7 +66,7 @@
         },
         {
             "@language": "fr",
-            "@value": "Carte de fidélité"
+            "@value": "The Wine Spirit"
         }
     ]
 }
