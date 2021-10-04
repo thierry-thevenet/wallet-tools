@@ -43,8 +43,8 @@
     "credentialSubject": {
         "id": "",
         "familyName": "Derangeot",
-        "jobTitle": "Directeur de département",
-        "employmentType": "Contrat à durée illimitée",
+        "jobTitle": "Lead developer",
+        "employmentType": "Open ended contract",
         "startDate": "2019-09-04",
         "type": "CertificateOfEmployment",
         "givenName": "Paul",
