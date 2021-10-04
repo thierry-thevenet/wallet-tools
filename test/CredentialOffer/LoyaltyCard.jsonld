@@ -19,6 +19,7 @@
                         "@context": {
                             "@protected": true,
                             "@version": 1.1,
+                            "address" : "schema:address",
                             "logo": {
                                 "@id": "schema:image",
                                 "@type": "@id"
