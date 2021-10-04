@@ -52,21 +52,21 @@
     "name": [
         {
             "@language": "en",
-            "@value": "VISA card"
+            "@value": "SSI Bank"
         },
         {
             "@language": "de",
-            "@value": "Zahlungskarte"
+            "@value": "SSI Bank"
         },
         {
             "@language": "fr",
-            "@value": "Carte VISA"
+            "@value": "SSI Bank"
         }
     ],
     "description": [
         {
             "@language": "en",
-            "@value": "Electronic SSI Bank card"
+            "@value": "Electronic payment card"
         },
         {
             "@language": "de",
@@ -74,7 +74,7 @@
         },
         {
             "@language": "fr",
-            "@value": "SSI Bank carte de paiement"
+            "@value": "Carte de paiement"
         }
     ]
 }
