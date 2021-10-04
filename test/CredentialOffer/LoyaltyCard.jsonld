@@ -55,6 +55,20 @@
         "givenName": "Thierry"
     },
     "issuer": "",
+     "description": [
+        {
+            "@language": "en",
+            "@value": "Electronic loyalty card"
+        },
+        {
+            "@language": "de",
+            "@value": ""
+        },
+        {
+            "@language": "fr",
+            "@value": "Carte de fidélité"
+        }
+    ],
     "name": [
         {
             "@language": "en",
