@@ -45,29 +45,37 @@
     "name": [
         {
             "@language": "en",
-            "@value": "Single Use VC"
+            "@value": "Ticket"
         },
         {
             "@language": "de",
-            "@value": ""
+            "@value": "Ticket"
         },
         {
             "@language": "fr",
-            "@value": "Ticket (usage unique)"
+            "@value": "Ticket"
+        },
+        {
+            "@language": "it",
+            "@value": "Ticket"
         }
     ],
     "description": [
         {
             "@language": "en",
-            "@value": "This VC represents a bearer token (ticket, ...)."
+            "@value": "This VC represents a single use bearer token."
         },
         {
             "@language": "de",
-            "@value": "Dieses signierte elektronische Zertifikat ist der Nachweis, dass Sie der Inhaber dieser Telefonnummer sind."
+            "@value": "Dieses Zertifikat ist ein anonymes Recht zur einmaligen Verwendung."
         },
         {
             "@language": "fr",
-            "@value": "Cette attestation est un droit anonyme à usage unique (ticket d'entrée, ..)."
+            "@value": "Cette attestation est un droit anonyme à usage unique."
+        },
+         {
+            "@language": "it",
+            "@value": "Questo certificato è un diritto anonimo per uso singolo."
         }
     ]
 }
