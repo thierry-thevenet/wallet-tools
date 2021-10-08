@@ -1,8 +1,10 @@
 # wallet-tools
 
 
- test
-Tools for testing, issuer and presentaion simulator, registries, etc
+Tools for testing.
+
+Issuer and Verifier simulator,
+...registries, etc
 
 ## Simulators
 
