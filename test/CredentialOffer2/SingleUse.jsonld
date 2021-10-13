@@ -1,0 +1,81 @@
+{
+    "@context": [
+        "https://www.w3.org/2018/credentials/v1",
+        {
+            "description": "https://schema.org/description",
+            "SingleUse": {
+                "@context": {
+                    "@protected": true,
+                    "@version": 1.1,
+                    "id": "@id",
+                    "issuedBy": {
+                        "@context": {
+                            "@protected": true,
+                            "@version": 1.1,
+                            "logo": {
+                                "@id": "schema:image",
+                                "@type": "@id"
+                            },
+                            "name": "schema:name"
+                        },
+                        "@id": "schema:issuedBy"
+                    },
+                    "schema": "https://schema.org/",
+                    "type": "@type"
+                },
+                "@id": "https://github.com/TalaoDAO/context/blob/main/README.md#phonepass"
+            },
+            "name": "https://schema.org/name"
+        }
+    ],
+    "id": "urn:uuid:d110e442-2764-11ec-ae6e-5b5c9c08ad62",
+    "type": [
+        "VerifiableCredential",
+        "SingleUse"
+    ],
+    "credentialSubject": {
+        "id": "bearer:12345",
+        "type": "SingleUse",
+        "issuedBy": {
+            "logo": "https://talao.mypinata.cloud/ipfs/QmNwbEEupT7jR2zmrA87FsN4hUS8eXnCxM8DsL9RXc25cu",
+            "name": "Talao"
+        }
+    },
+    "issuer": "",
+    "name": [
+        {
+            "@language": "en",
+            "@value": "Ticket"
+        },
+        {
+            "@language": "de",
+            "@value": "Ticket"
+        },
+        {
+            "@language": "fr",
+            "@value": "Ticket"
+        },
+        {
+            "@language": "it",
+            "@value": "Ticket"
+        }
+    ],
+    "description": [
+        {
+            "@language": "en",
+            "@value": "This VC represents a single use bearer token."
+        },
+        {
+            "@language": "de",
+            "@value": "Dieses Zertifikat ist ein anonymes Recht zur einmaligen Verwendung."
+        },
+        {
+            "@language": "fr",
+            "@value": "Cette attestation est un droit anonyme à usage unique."
+        },
+         {
+            "@language": "it",
+            "@value": "Questo certificato è un diritto anonimo per uso singolo."
+        }
+    ]
+}
