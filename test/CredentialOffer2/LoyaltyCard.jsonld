@@ -48,7 +48,7 @@
         "familyName": "Thevenet",
         "programName" : "Excellent",
         "issuedBy": {
-            "logo": "",
+            "logo": "https://talao.mypinata.cloud/ipfs/QmeA1xTT7xBxxsEG7UCFoMXUvW94QtidZJBmx545wX3Lyu",
             "address" : "28, rue du Saint Esprit, 31000 Toulouse, France",
             "name": ""
         },
@@ -72,7 +72,7 @@
     "name": [
         {
             "@language": "en",
-            "@value": "The Fashion Spririt"
+            "@value": "My home card"
         },
         {
             "@language": "de",
@@ -80,7 +80,7 @@
         },
         {
             "@language": "fr",
-            "@value": "The Fashion Spirit"
+            "@value": "ma carte maison"
         }
     ]
 }
