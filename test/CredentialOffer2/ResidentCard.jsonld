@@ -103,15 +103,15 @@
     "name": [
         {
             "@language": "en",
-            "@value": "Residence certificate"
+            "@value": "Residence certificate\n\n\n"
         },
         {
             "@language": "de",
-            "@value": "Wohnsitzbescheinigung"
+            "@value": "Wohnsitzbescheinigung\n\n\n"
         },
         {
             "@language": "fr",
-            "@value": "Certificat de résidence"
+            "@value": "Certificat de résidence\n\n\n"
         }
     ]
 }
