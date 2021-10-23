@@ -70,15 +70,15 @@
     "name": [
         {
             "@language": "en",
-            "@value": "My VISA Card"
+            "@value": "VISA Card"
         },
         {
             "@language": "de",
             "@value": "SSI Bank"
         },
         {
-            "@language": "Ma carte VISA",
-            "@value": "SSI Bank"
+            "@language": "fr",
+            "@value": "Carte VISA"
         }
     ],
     "description": [
@@ -92,7 +92,7 @@
         },
         {
             "@language": "fr",
-            "@value": "Carte de paiement VISA"
+            "@value": "Carte de paiemen"
         }
     ]
 }
