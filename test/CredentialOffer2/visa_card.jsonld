@@ -12,6 +12,18 @@
                     "id": "@id",
                     "identifier": "schema:identifier",
                     "name": "schema:name",
+                     "issuedBy": {
+                        "@context": {
+                            "@protected": true,
+                            "@version": 1.1,
+                            "address" : "scheam:address",
+                            "logo": {
+                                "@id": "schema:logo",
+                                "@type": "@id"
+                            },
+                            "name": "schema:name",
+                            "schema": "https://schema.org/"
+                        },
                     "provider": {
                         "@context": {
                             "@protected": true,
@@ -43,6 +55,10 @@
         "type": "PaymentCard",
         "category": "Debit Card",
         "name": "John Doe",
+        "issuedBy" : {
+             "logo": "https://talao.mypinata.cloud/ipfs/QmahwhkRRZ9hAnWZ5Qj8bbynZdgtYYcn3a2YJf2nCzTVhB",
+            "name": "VISA"
+        },
         "provider": {
             "logo": "https://talao.mypinata.cloud/ipfs/QmahwhkRRZ9hAnWZ5Qj8bbynZdgtYYcn3a2YJf2nCzTVhB",
             "name": "VISA"
