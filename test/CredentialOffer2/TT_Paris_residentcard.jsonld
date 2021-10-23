@@ -71,7 +71,7 @@
         "birthDate": "13/09/1963",
         "maritalStatus": "Marrié",
         "issuedBy": {
-            "logo": "https://talao.mypinata.cloud/ipfs/QmW2Ph9WixNSPKsQKJmniUEXBzhe2aXV93s88GYeX5FbZ9",
+            "logo": "https://talao.mypinata.cloud/ipfs/QmSzEWZaEVpnSDtscjvCQbY5mczJrt4VTBhPu3VwwWCua7",
             "name": "Ville de Paris"
         }
     },
@@ -89,15 +89,15 @@
     "description": [
         {
             "@language": "en",
-            "@value": "This certificate proves the reality of your residence in Luxembourg."
+            "@value": "This certificate proves the reality of your residence in Paris."
         },
         {
             "@language": "de",
-            "@value": "Diese Bescheinigung belegt die Realität Ihres Wohnsitzes in Luxemburg."
+            "@value": "Diese Bescheinigung belegt die Realität Ihres Wohnsitzes in Paris."
         },
         {
             "@language": "fr",
-            "@value": "Cette attestation prouve la réalité de votre résidence au Luxembourg."
+            "@value": "Cette attestation prouve la réalité de votre résidence dans la Ville de Paris."
         }
     ],
     "name": [
