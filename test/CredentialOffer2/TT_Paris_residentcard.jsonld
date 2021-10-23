@@ -89,15 +89,15 @@
     "description": [
         {
             "@language": "en",
-            "@value": "This certificate proves the reality of your residence in Paris."
+            "@value": "This certificate proves the reality of your residence in Paris.\n\n\n"
         },
         {
             "@language": "de",
-            "@value": "Diese Bescheinigung belegt die Realität Ihres Wohnsitzes in Paris."
+            "@value": "Diese Bescheinigung belegt die Realität Ihres Wohnsitzes in Paris.\n\n\n"
         },
         {
             "@language": "fr",
-            "@value": "Cette attestation prouve la réalité de votre résidence dans la Ville de Paris."
+            "@value": "Cette attestation prouve la réalité de votre résidence dans la Ville de Paris.\n\n\n"
         }
     ],
     "name": [
