@@ -84,7 +84,7 @@
     "description": [
         {
             "@language": "en",
-            "@value": "Electronic payment card"
+            "@value": "Electronic payment card\n\n\n"
         },
         {
             "@language": "de",
@@ -92,7 +92,7 @@
         },
         {
             "@language": "fr",
-            "@value": "Carte de paiemen"
+            "@value": "Carte de paiement\n\n\n"
         }
     ]
 }
