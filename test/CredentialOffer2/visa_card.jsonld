@@ -44,22 +44,22 @@
         "category": "Debit Card",
         "name": "John Doe",
         "provider": {
-            "logo": "https://talao.mypinata.cloud/ipfs/QmU8z1aDDpbgVjXwU8nMvgU3YD4VeUzHTkitsELZRFBBZa",
-            "name": "SSI Bank"
+            "logo": "https://talao.mypinata.cloud/ipfs/QmahwhkRRZ9hAnWZ5Qj8bbynZdgtYYcn3a2YJf2nCzTVhB",
+            "name": "VISA"
         }
     },
     "issuer": "",
     "name": [
         {
             "@language": "en",
-            "@value": "SSI Bank"
+            "@value": "My VISA Card"
         },
         {
             "@language": "de",
             "@value": "SSI Bank"
         },
         {
-            "@language": "fr",
+            "@language": "Ma carte VISA",
             "@value": "SSI Bank"
         }
     ],
@@ -74,7 +74,7 @@
         },
         {
             "@language": "fr",
-            "@value": "Carte de paiement"
+            "@value": "Carte de paiement VISA"
         }
     ]
 }
