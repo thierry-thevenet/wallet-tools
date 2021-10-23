@@ -88,7 +88,7 @@
     "description": [
         {
             "@language": "en",
-            "@value": "This credential can be used to authenticate with Talao web services.\n\n\n"
+            "@value": "This credential can be used to authenticate with Talao web services."
         },
         {
             "@language": "de",
@@ -96,7 +96,7 @@
         },
         {
             "@language": "fr",
-            "@value": "Ce pass permet de s'authentifier auprès des services web de Talao.\n\n\n"
+            "@value": "Ce pass permet de s'authentifier auprès des services web de Talao."
         }
     ]
 }
