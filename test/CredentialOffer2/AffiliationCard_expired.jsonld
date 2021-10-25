@@ -53,7 +53,7 @@
     "description": [
         {
             "@language": "en",
-            "@value": "Expired affiliation card for demo.\n\n\n"
+            "@value": "Expired affiliation card for demo.\n\n\n\n"
         },
         {
             "@language": "de",
@@ -61,7 +61,7 @@
         },
         {
             "@language": "fr",
-            "@value": "Carte d'adhérent expirée pour test.\n\n\n"
+            "@value": "Carte d'adhérent expirée pour test.\n\n\n\n"
         }
     ],
     "name": [
