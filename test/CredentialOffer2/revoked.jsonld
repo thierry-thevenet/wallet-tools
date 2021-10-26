@@ -1,0 +1,110 @@
+{
+    "@context": [
+        "https://www.w3.org/2018/credentials/v1",
+        "https://w3id.org/vc-revocation-list-2020/v1",
+        {
+            "IdentityPass": {
+                "@context": {
+                    "@protected": true,
+                    "@version": 1.1,
+                    "id": "@id",
+                    "issuedBy": {
+                        "@context": {
+                            "@protected": true,
+                            "@version": 1.1,
+                            "address": "schema:address",
+                            "logo": {
+                                "@id": "schema:logo",
+                                "@type": "@id"
+                            },
+                            "name": "schema:name",
+                            "schema": "https://schema.org/"
+                        },
+                        "@id": "schema:issuedBy"
+                    },
+                    "recipient": {
+                        "@context": {
+                            "@protected": true,
+                            "@version": 1.1,
+                            "address": "schema:address",
+                            "birthDate": "schema:birthDate",
+                            "email": "schema:email",
+                            "familyName": "schema:familyName",
+                            "gender": "schema:gender",
+                            "givenName": "schema:givenName",
+                            "image": {
+                                "@id": "schema:image",
+                                "@type": "@id"
+                            },
+                            "jobTitle": "schema:jobTitle",
+                            "schema": "https://schema.org/",
+                            "telephone": "schema:telephone"
+                        },
+                        "@id": "schema:recipient"
+                    },
+                    "schema": "https://schema.org/",
+                    "type": "@type"
+                },
+                "@id": "https://github.com/TalaoDAO/context/blob/main/README.mdidentitypass"
+            },
+            "description": "https://schema.org/description",
+            "name": "https://schema.org/name"
+        }
+    ],
+    "id": "urn:uuid:5d1bcc16-366c-11ec-9133-fb4d3a532ba3",
+    "type": [
+        "VerifiableCredential",
+        "IdentityPass"
+    ],
+    "credentialSubject": {
+        "id": "did:tz:tz1gvdiw7GZR99xwUtJ5tDmh5EVe9RhYHzqq",
+        "type": "IdentityPass",
+        "issuedBy": {
+            "address": "4, rue Louis-Guérin, 69626 Villeurbanne, France",
+            "logo": "https://talao.mypinata.cloud/ipfs/QmNwbEEupT7jR2zmrA87FsN4hUS8eXnCxM8DsL9RXc25cu",
+            "name": "Talao SAS"
+        },
+        "recipient": {
+            "email": "",
+            "familyName": "",
+            "givenName": "",
+            "image": "",
+            "jobTitle": "Director"
+        }
+    },
+    "issuer": "",
+    "credentialStatus": {
+        "id": "urn:uuid:f2303d74-18a7-11ec-8578-53b45f49e418#12345",
+        "type": "RevocationList2020Status",
+        "revocationListCredential": "http://talao.co/credentiallist",
+        "revocationListIndex": "50000"
+    },
+    "name": [
+        {
+            "@language": "en",
+            "@value": "Identity pass"
+        },
+        {
+            "@language": "de",
+            "@value": "Firmenpass"
+        },
+        {
+            "@language": "fr",
+            "@value": "Pass entreprise"
+        }
+    ],
+    "description": [
+        {
+            "@language": "en",
+            "@value": "It is a credential issued by a company or an organization. It can be used to authenticate with company services (access badge, information system) or with third parties who offer services for company employees."
+        },
+        {
+            "@language": "de",
+            "@value": "Es ist ein von einem Unternehmen oder einer Organisation ausgestellter Berechtigungsnachweis. Es kann zur Authentifizierung bei Firmendiensten (Zugangsausweis, Informationssystem) oder bei Dritten, die Dienstleistungen für Firmenmitarbeiter anbieten, verwendet werden."
+        },
+        {
+            "@language": "fr",
+            "@value": "Démonstration. Il s'agit d'un titre délivré par une entreprise ou une organisation. Il permet de s'authentifier auprès des services de l'entreprise (badge d'accès, système d'information)."
+        }
+    ]
+}
