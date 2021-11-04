@@ -89,15 +89,15 @@
     "description": [
         {
             "@language": "en",
-            "@value": "This certificate proves the reality of your residence in Luxembourg\n\n\n."
+            "@value": "This certificate proves the reality of your residence in Luxembourg."
         },
         {
             "@language": "de",
-            "@value": "Diese Bescheinigung belegt die Realität Ihres Wohnsitzes in Luxemburg.\n\n\n"
+            "@value": "Diese Bescheinigung belegt die Realität Ihres Wohnsitzes in Luxemburg."
         },
         {
             "@language": "fr",
-            "@value": "Cette attestation prouve la réalité de votre résidence au Luxembourg.\n\n\n"
+            "@value": "Cette attestation prouve la réalité de votre résidence au Luxembourg."
         }
     ],
     "name": [
