@@ -1,1 +1,1 @@
-Just a simple directory to store unsigned VC for our issuer simulator https://talao.co/wallet/test/credentialOffer
+Just a second simple directory to store unsigned VC for our issuer simulator https://talao.co/wallet/test/credentialOffer
