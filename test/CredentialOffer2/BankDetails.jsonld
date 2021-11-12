@@ -1,0 +1,103 @@
+{
+    "@context": [
+        "https://www.w3.org/2018/credentials/v1",
+        "https://w3id.org/vc-revocation-list-2020/v1",
+        {
+            "description": "https://schema.org/description",
+            "BankDetails": {
+                "@context": {
+                    "@protected": true,
+                    "@version": 1.1,
+                    "iban": "schema:identifier",
+                    "id": "@id",
+                    "issuedBy": {
+                        "@context": {
+                            "@protected": true,
+                            "@version": 1.1,
+                            "address": "schema:address",
+                            "logo": {
+                                "@id": "schema:logo",
+                                "@type": "@id"
+                            },
+                            "name": "schema:name",
+                            "schema": "https://schema.org/"
+                        },
+                        "@id": "schema:issuedBy"
+                    },
+                    "location": "schema:address",
+                    "recipient": {
+                        "@context": {
+                            "@protected": true,
+                            "@version": 1.1,
+                            "familyName": "schema:familyName",
+                            "givenName": "schema:givenName",
+                            "schema": "https://schema.org/"
+                        },
+                        "@id": "schema:recipient"
+                    },
+                    "schema": "https://schema.org/",
+                    "swift": "schema:identifier",
+                    "type": "@type"
+                },
+                "@id": "https://github.com/TalaoDAO/context/blob/main/README"
+            },
+            "name": "https://schema.org/name"
+        }
+    ],
+    "id": "urn:uuid:531280fa-43a7-11ec-bad5-b5c99d8bb8cd",
+    "type": [
+        "VerifiableCredential",
+        "BankDetails"
+    ],
+    "credentialSubject": {
+        "id": "",
+        "recipient": {
+            "familyName": "John",
+            "givenName": "Doe"
+        },
+        "type": "BankDetails",
+        "location": "Georgia",
+        "iban": "FR7630001000316504448587780",
+        "swift": "AGRIFRPP883",
+        "issuedBy": {
+            "address": "4, rue Louis-Guérin, 69626 Villeurbanne, France",
+            "logo": "https://talao.mypinata.cloud/ipfs/QmZwLeAXzH8YuaXhhRbzMk8S5FZLXzmZ4Th3by8QCfKcA3",
+            "name": "Credit Of Union"
+        }
+    },
+    "issuer": "",
+    "credentialStatus": {
+        "id": "urn:uuid:531280fb-43a7-11ec-bad5-b5c99d8bb8cd",
+        "type": "RevocationList2020Status",
+        "revocationListIndex": "50000",
+        "revocationListCredential": "https://talao.co/credentials/status/3"
+    },
+    "name": [
+        {
+            "@language": "en",
+            "@value": "Bank identity statement"
+        },
+        {
+            "@language": "de",
+            "@value": "Bankdaten"
+        },
+        {
+            "@language": "fr",
+            "@value": "Relevé d'identité bancaire"
+        }
+    ],
+    "description": [
+        {
+            "@language": "en",
+            "@value": "This electronic Bank Identity Statement contains your precise bank details. You can communicate them without risk of error. For demonstration only."
+        },
+        {
+            "@language": "de",
+            "@value": "Dieser elektronische Bankauszug enthält Ihre genaue Bankverbindung. Sie können sie ohne Fehlerrisiko kommunizieren. Nur zu Demonstrationszwecken."
+        },
+        {
+            "@language": "fr",
+            "@value": "Ce Relevé d'Identité Bancaire électronique  contient vos coordonnées bancaires précises. Vous pouvez ainsi les communiquer, sans risque d'erreur. Pour démontration seulement."
+        }
+    ]
+}
