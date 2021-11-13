@@ -89,15 +89,15 @@
     "description": [
         {
             "@language": "en",
-            "@value": "This electronic Bank Identity Statement contains your precise bank details. You can communicate them without risk of error. For demonstration only."
+            "@value": "This electronic Bank Identity Statement contains your precise bank details."
         },
         {
             "@language": "de",
-            "@value": "Dieser elektronische Bankauszug enthält Ihre genaue Bankverbindung. Sie können sie ohne Fehlerrisiko kommunizieren. Nur zu Demonstrationszwecken."
+            "@value": "Dieser elektronische Bankauszug enthält Ihre genaue Bankverbindung."
         },
         {
             "@language": "fr",
-            "@value": "Ce Relevé d'Identité Bancaire électronique  contient vos coordonnées bancaires précises. Vous pouvez ainsi les communiquer, sans risque d'erreur. Pour démontration seulement."
+            "@value": "Ce Relevé d'Identité Bancaire électronique contient vos coordonnées bancaires précises."
         }
     ]
 }
