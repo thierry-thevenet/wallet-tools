@@ -104,15 +104,15 @@
     "description": [
         {
             "@language": "en",
-            "@value": "It is a credential issued by a company to its employees, service providers or freelancers. This certificate is produced at the request of a Talent to prove the skills and know-how implemented during a project or a mission. "
+            "@value": "It is a credential issued by a company to its employees, service providers or freelancers."
         },
         {
             "@language": "de",
-            "@value": "Es ist ein Ausweis, der von einem Unternehmen an seine Mitarbeiter, Dienstleister oder Freiberufler ausgestellt wird. Dieses Zertifikat wird auf Antrag eines Talents ausgestellt, um die Fähigkeiten und das Know-how nachzuweisen, die während eines Projekts oder einer Mission eingesetzt werden."
+            "@value": "Es ist ein Ausweis, der von einem Unternehmen an seine Mitarbeiter, Dienstleister oder Freiberufler ausgestellt wird."
         },
         {
             "@language": "fr",
-            "@value": "Il s'agit d'un justificatif délivré par une entreprise à ses salariés, prestataires ou indépendants. Cette attestation est produite à la demande d'un Talent pour justifier des compétences et savoir-faire mis en œuvre lors d'un projet ou d'une mission."
+            "@value": "Il s'agit d'un justificatif délivré par une entreprise à ses salariés, prestataires ou indépendants."
         }
     ]
 }
