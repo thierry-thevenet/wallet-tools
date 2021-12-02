@@ -19,11 +19,7 @@
         {
             "description": "hhtps://chema.org/description",
             "name": "https://schema.org/name",
-            "evidence": [{
-                "id": "https://talao.io/",
-                "type": ["DocumentVerification"]
-                }
-            ],        
+                   
             "ResidentCard": {
                 "@context": {
                     "@protected": true,
@@ -63,6 +59,11 @@
         "VerifiableCredential",
         "ResidentCard"
     ],
+    "evidence": [{
+                "id": "https://talao.io/",
+                "type": ["DocumentVerification"]
+                }
+     ], 
     "credentialSubject": {
         "id": "",
         "identifier": "566GFJHF67876",
