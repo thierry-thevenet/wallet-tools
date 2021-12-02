@@ -22,7 +22,8 @@
             "evidence": [{
                 "id": "https://talao.io/",
                 "type": ["DocumentVerification"]
-                },
+                }
+            ],        
             "ResidentCard": {
                 "@context": {
                     "@protected": true,
