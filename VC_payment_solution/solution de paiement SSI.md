@@ -1,13 +1,9 @@
-﻿solution de paiement SSI
+# solution de paiement SSI
 inspiré de la solution Hyperledger Aries :
-
 
 https://github.com/hyperledger/aries-rfcs/blob/main/features/0075-payment-decorators/README.md#payment_receipt
 
-
-
-
-
+## Overview
 
 l’issuer propose un  prix pour un VC, l’utilisateur si il accepte la proposition choisit un des moyens de paiement proposé par l ‘issuer et transfère les fonds.
  il joint son reçu et l’issuer qui émet le VC.
@@ -26,19 +22,14 @@ credentialOffer = {
              “payment_request : {...},
          }
 
-
-
-
-
-
 Cf le json payment_request en annexe
 
 
-Step 1
+### Step 1
 Au dessous de l’affichage de l' offre , Il faudrait afficher à l’utilisateur le détail de la facture (cf attribut "détails" de payment_request et demander l’accord du user pour procéder au paiement. 
 
 
-Step 2
+### Step 2
 Si ok il faut proposer à l’utilisateur les moyens de paiements possibles qui sont dans l’attribut “supportedMethods” de payment_request de l’issuer et dont le label est fixé par le téléphone (hard codé), exemple de label propre au téléphone :
 
 
@@ -59,19 +50,17 @@ Si ok il faut proposer à l’utilisateur les moyens de paiements possibles qui 
  },
 
 
-
-
-Step 3
-
-
-
+### Step 3
 
 Dans le cas ou la méthode choisie par el user est talao_test  il faut réaliser un transfert avec des “faux” tokens de tests qui se trouve sur une blockchain ethereum privée (talaonet).
+
 Cf le code de contract.dart
 
 
 Dans les autres cas afficher "Démo contact@talao.io”
-Step 4
+
+### Step 4
+
 Récuperer le hash de la transaction et l’envoyer a l’issuer avec un payment_receipt a ajouter a la response au GET faite par le wallet
 
 
@@ -99,8 +88,7 @@ exemple :
 
 
 
-Autres
-
+## Autres
 
 Pour que l’utilisateur puisse accéder a ses comptes de token il faut ajouter dans la page “information générale”  son addresse Tezos et son address ethereum :
 
@@ -109,6 +97,7 @@ addresse tezos c est celle qui est dans le did,
 
 
  addresse Ethereum est calculé dans contract.dart
+
 Annexe
 exemple de payment_request
 
