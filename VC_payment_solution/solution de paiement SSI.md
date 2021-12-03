@@ -6,7 +6,7 @@ https://github.com/hyperledger/aries-rfcs/blob/main/features/0075-payment-decora
 ## Overview
 
 l’issuer propose un  prix pour un VC, l’utilisateur si il accepte la proposition choisit un des moyens de paiement proposé par l ‘issuer et transfère les fonds.
- il joint son reçu et l’issuer qui émet le VC.
+ il joint son reçu à l’issuer qui émet le VC.
 
 
 Dans notre flow 
