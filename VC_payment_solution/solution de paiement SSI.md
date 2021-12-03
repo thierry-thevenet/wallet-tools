@@ -103,7 +103,7 @@ addresse tezos c est celle qui est dans le did,
 ### exemple de payment_request
 
 
-..'
+```javascript
 
 "payment_request": {
    "methodData": [
@@ -178,3 +178,5 @@ addresse tezos c est celle qui est dans le did,
      ]
    }
  }
+
+```
