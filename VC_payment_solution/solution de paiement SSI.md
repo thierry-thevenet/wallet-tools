@@ -12,7 +12,7 @@ l’issuer propose un  prix pour un VC, l’utilisateur si il accepte la proposi
 Dans notre flow 
 
 
-GET : l’issuer on ajoute un attribut “payment_request” au credentialOffer :
+GET : l’issuer ajoute un attribut “payment_request” au credentialOffer :
 
 ```javascript
 credentialOffer = {
