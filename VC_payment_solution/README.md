@@ -1,1 +1,1 @@
-maquette pour evaluer la possibilité d'acheter des VC avec des tokens TALAO 
+maquette pour montrer la possibilité d'acheter des VC avec des tokens TALAO de test  
