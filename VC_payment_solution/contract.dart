@@ -50,8 +50,7 @@ void main() async {
   var balance = await ethClient.getBalance(address);
   print("balance sender = $balance");
 
-  // Talao token contract on talaonet
-  // il faut que cette balance soit supéerieure au cout du VC
+  // init Talao token contract on talaonet 
   final EthereumAddress contractAddr =
       EthereumAddress.fromHex('0x6F4148395c94a455dc224A56A6623dEC2395b99B');
   // upload Talao contract ABI
@@ -70,6 +69,7 @@ void main() async {
       EthereumAddress.fromHex('0x461B99bCBdaD9697d299FDFe0879eC04De256DA1');
 
   // get sender balance in token Talao
+   // il faut que cette balance soit supéerieure au cout du VC
   final senderbalance = await ethClient
       .call(contract: contract, function: balanceFunction, params: [address]);
   print('sender has $senderbalance Talao');
