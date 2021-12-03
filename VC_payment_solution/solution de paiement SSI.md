@@ -98,11 +98,12 @@ addresse tezos c est celle qui est dans le did,
 
  addresse Ethereum est calculé dans contract.dart
 
-Annexe
-exemple de payment_request
+## Annexe
+
+### exemple de payment_request
 
 
-
+..'
 
 "payment_request": {
    "methodData": [
