@@ -74,18 +74,18 @@ void main() async {
       .call(contract: contract, function: balanceFunction, params: [address]);
   print('sender has $senderbalance Talao');
 
-  // get receiver balance in token Talao
+  // get receiver balance in token Talao for testing purpose
   final receiverbalance = await ethClient
       .call(contract: contract, function: balanceFunction, params: [receiver]);
   print('before receiver has $receiverbalance Talao');
 
-  // transfer 1 TALAO token from sender to receiver
+  // transfer 1300 TALAO token from sender to receiver (price of VC)
   final hash = await ethClient.sendTransaction(
       privateKey,
       Transaction.callContract(
           contract: contract,
           function: transferFunction,
-          parameters: [receiver, BigInt.from(1)],
+          parameters: [receiver, BigInt.from(1300)],
           gasPrice: EtherAmount.inWei(BigInt.from(2))),
       chainId: 50000);
   // the hash is the receipt for the payment_receipt
@@ -95,7 +95,7 @@ void main() async {
   // wait for transaction to be mint for testing purpose
   sleep(Duration(seconds: 10));
 
-  // get final token balance for receiver to check if everything is ok
+  // get final token balance for receiver to check if everything is ok for testing purpose
   final receiverbalanceafter = await ethClient
       .call(contract: contract, function: balanceFunction, params: [receiver]);
   // Congratualation !!!!
