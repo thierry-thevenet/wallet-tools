@@ -53,7 +53,7 @@ Si ok il faut proposer à l’utilisateur les moyens de paiements possibles qui 
 
 ### Step 3
 
-Dans le cas ou la méthode choisie par el user est talao_test  il faut réaliser un transfert avec des “faux” tokens de tests qui se trouve sur une blockchain ethereum privée (talaonet).
+Dans le cas ou la méthode choisie par le user est talao_test  il faut réaliser un transfert avec des “faux” tokens de test qui se trouve sur une blockchain ethereum privée (talaonet).
 
 Cf le code de contract.dart
 
