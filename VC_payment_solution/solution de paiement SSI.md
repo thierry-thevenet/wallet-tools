@@ -14,13 +14,14 @@ Dans notre flow
 
 GET : l’issuer on ajoute un attribut “payment_request” au credentialOffer :
 
-
+```javascript
 credentialOffer = {
            "type": "CredentialOffer",
            "credentialPreview": {...},
-           "expires" : 12/08/2021Z ",
-             “payment_request : {...},
-         }
+           "expires" : 12/08/2021Z "
+            “payment_request : {...}
+
+```
 
 Cf le json payment_request en annexe
 
@@ -32,7 +33,7 @@ Au dessous de l’affichage de l' offre , Il faudrait afficher à l’utilisateu
 ### Step 2
 Si ok il faut proposer à l’utilisateur les moyens de paiements possibles qui sont dans l’attribut “supportedMethods” de payment_request de l’issuer et dont le label est fixé par le téléphone (hard codé), exemple de label propre au téléphone :
 
-
+```javascript
 {
    "supportedMethods": "basic_card",
    "label": “Pay with Card (VISA, Mastercard)”
@@ -48,7 +49,7 @@ Si ok il faut proposer à l’utilisateur les moyens de paiements possibles qui 
    "supportedMethods": "tezos",
    "label": “Pay with XTZ (Tezos)”
  },
-
+```
 
 ### Step 3
 
@@ -63,17 +64,18 @@ Dans les autres cas afficher "Démo contact@talao.io”
 
 Récuperer le hash de la transaction et l’envoyer a l’issuer avec un payment_receipt a ajouter a la response au GET faite par le wallet
 
-
+```javascript
 {
            “Subject_id”, ”did:tz:tz1e5YakmACgZZprF7YWHMqnSvcWVXZ2TsPW”,
             “payment_receipt”: {.....}
 }
-
+```
 
 
 
 exemple :
 
+```javascript
 
   payment_receipt": {
       "request_id": ".....mettre l id du vc ",
@@ -85,7 +87,7 @@ exemple :
       "amount": { "currency": "TALAO", "value": "1300" }
   }
 
-
+```
 
 
 ## Autres
