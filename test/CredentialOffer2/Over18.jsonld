@@ -25,7 +25,7 @@
             }
         }
     ],
-    "id": "",
+    "id": "urn:uuid:ba47551a-0e24-11ec-9ef1-f37fc4c32",
     "type": ["VerifiableCredential", "Over18"],
     "name" : [ 
         {
