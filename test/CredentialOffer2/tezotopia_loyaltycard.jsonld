@@ -72,7 +72,7 @@
     "name": [
         {
             "@language": "en",
-            "@value": "Tezotopia VIP"
+            "@value": "Tezotopia VIP Card"
         },
         {
             "@language": "de",
@@ -80,7 +80,7 @@
         },
         {
             "@language": "fr",
-            "@value": "Tezotopia VIP"
+            "@value": "Carte VIP Tezotopia"
         }
     ]
 }
