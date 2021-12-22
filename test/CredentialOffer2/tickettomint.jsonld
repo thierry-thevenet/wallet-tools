@@ -30,7 +30,7 @@
     "issuer": "",
     "name" : [ 
         {
-            "@value": "Single Use VC",
+            "@value": "Ticket to mint",
             "@language": "en"
         },
         {
@@ -38,14 +38,14 @@
             "@language": "de"
         },
         {
-            "@value": "Ticket (Usage unique)",
+            "@value": "Ticket to mint",
             "@language": "fr"
         }
     ],
     "description" : [
         {
             "@language": "en",
-            "@value": "This VC represents a bearer token (ticket, ...)."
+            "@value": "0,5 UNO + 50 ENR"
         },
         {
             "@language": "de",
@@ -53,7 +53,7 @@
         },
         {
             "@language": "fr",
-            "@value": "Cette attestation est un droit anonyme à usage unique (ticket d'entrée, ..)."
+            "@value": "0,5 UNO + 50 ENR"
         }
     ],
 
@@ -61,8 +61,8 @@
     "credentialSubject" : {
         "type" : "SingleUse",
         "issuedBy" : {
-            "name" : "Talao",
-            "logo" : "https://talao.mypinata.cloud/ipfs/QmNwbEEupT7jR2zmrA87FsN4hUS8eXnCxM8DsL9RXc25cu"
+            "name" : "",
+            "logo" : "https://talao.mypinata.cloud/ipfs/QmZmdndUVRoxiVhUnjGrKnNPn8ah3jT8fxTCLMnAzRAFFZ"
         }
       
     }
