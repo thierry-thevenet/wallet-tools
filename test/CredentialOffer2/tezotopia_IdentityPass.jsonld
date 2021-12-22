@@ -59,13 +59,12 @@
         "id": "",
         "recipient": {
             "email": "denis.lafont@talao.io",
-            "familyName": "Denis",
-            "givenName": "Lafont",
-            "image" : "https://talao.mypinata.cloud/ipfs/QmUAvVQVMCies9NsXqEUvfiVuiwr3CquG464wUecBV3EnA",
-            "jobTitle": "Director"
+            "jobTitle" : "Warlord"
+            "familyName": "King of the continent #01",
+            "image" : "https://talao.mypinata.cloud/ipfs/QmUAvVQVMCies9NsXqEUvfiVuiwr3CquG464wUecBV3EnA"
         },
         "issuedBy": {
-            "logo": "https://talao.mypinata.cloud/ipfs/QmNwbEEupT7jR2zmrA87FsN4hUS8eXnCxM8DsL9RXc25cu",
+            "logo": "https://talao.mypinata.cloud/ipfs/QmZmdndUVRoxiVhUnjGrKnNPn8ah3jT8fxTCLMnAzRAFFZ",
             "name": "Talao"
         },
         "type": "IdentityPass"
@@ -74,7 +73,7 @@
     "name": [
         {
             "@language": "en",
-            "@value": "Talao pass"
+            "@value": "King of the continent #01"
         },
         {
             "@language": "de",
@@ -82,13 +81,13 @@
         },
         {
             "@language": "fr",
-            "@value": "Talao Pass"
+            "@value": "King of the continent #01"
         }
     ],
     "description": [
         {
             "@language": "en",
-            "@value": "This credential can be used to authenticate with Talao web services (access badge, information system)."
+            "@value": "This my character, my skills, my experience, my identity"
         },
         {
             "@language": "de",
@@ -96,7 +95,7 @@
         },
         {
             "@language": "fr",
-            "@value": "Ce pass permet de s'authentifier auprès des services web de Talao."
+            "@value": "This my character, my skills, my experience, my identity"
         }
     ]
 }
