@@ -58,14 +58,13 @@
     "credentialSubject": {
         "id": "",
         "recipient": {
-            "email": "denis.lafont@talao.io",
             "jobTitle" : "Warlord",
             "familyName": "King of the continent #01",
             "image" : "https://talao.mypinata.cloud/ipfs/QmUAvVQVMCies9NsXqEUvfiVuiwr3CquG464wUecBV3EnA"
         },
         "issuedBy": {
-            "logo": "https://talao.mypinata.cloud/ipfs/QmZmdndUVRoxiVhUnjGrKnNPn8ah3jT8fxTCLMnAzRAFFZ",
-            "name": "Talao"
+            "logo": "https://talao.mypinata.cloud/ipfs/QmZmdndUVRoxiVhUnjGrKnNPn8ah3jT8fxTCLMnAzRAFFZ"
+           
         },
         "type": "IdentityPass"
     },
