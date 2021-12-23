@@ -89,20 +89,9 @@
         "endDate": "2021-05-15T12:11:59Z",
         "familyName": "King of the continent",
          "skills": [
-            {
-                "@type": "Skill",
-                "description": "JSON-LD"
-            },
-            {
-                "@type": "Skill",
-                "description": " Verifiable Credential"
-            }
         ],
         "title": "Warlord",
          "signatureLines": {
-            "image": "https://gateway.pinata.cloud/ipfs/Qmac6K4suXyYaouFXxeBzDTr7XivTiq6cLWPh1puS6L7Kt",
-            "jobTitle": "Director",
-            "name": "Nicolas Muller"
         },
         "startDate": "2020-02-01T12:11:59Z",
         "type": "ProfessionalExperienceAssessment",
