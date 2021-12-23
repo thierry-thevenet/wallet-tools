@@ -87,7 +87,7 @@
     "credentialSubject": {
         "id": "",
         "endDate": "2021-05-15T12:11:59Z",
-        "givenName" : "King of the continent"
+        "givenName" : "King of the continent",
         "familyName": "bguine023",
          "skills": [
         ],
