@@ -89,7 +89,11 @@
         "endDate": "2021-05-15T12:11:59Z",
         "familyName": "King of the continent",
         "title": "Warlord",
-         "signatureLines" : {},
+         "signatureLines": {
+            "image": "https://gateway.pinata.cloud/ipfs/Qmac6K4suXyYaouFXxeBzDTr7XivTiq6cLWPh1puS6L7Kt",
+            "jobTitle": "Director",
+            "name": "Nicolas Muller"
+        },
         "startDate": "2020-02-01T12:11:59Z",
         "type": "ProfessionalExperienceAssessment",
         "issuedBy": {
@@ -102,7 +106,7 @@
                 "reviewBody": [
                     {
                         "@language": "en",
-                        "@value": "How likely are you to recommend this Avatar to others ?"
+                        "@value": "Kindness"
                     },
                     {
                         "@language": "fr",
@@ -126,7 +130,7 @@
                     },
                     {
                         "@language": "fr",
-                        "@value": "Etes vous satisfait du travail produit ?"
+                        "@value": "Force"
                     }
                 ],
                 "reviewRating": {
@@ -146,7 +150,7 @@
                     },
                     {
                         "@language": "fr",
-                        "@value": "Etes vous satisfait des délais de livraison ?"
+                        "@value": "Experience"
                     }
                 ],
                 "reviewRating": {
@@ -166,7 +170,7 @@
                     },
                     {
                         "@language": "fr",
-                        "@value": "Etes vous satisfait de la communication de ce Talent ?"
+                        "@value": "sagesse"
                     }
                 ],
                 "reviewRating": {
