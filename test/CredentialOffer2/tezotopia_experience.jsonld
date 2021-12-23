@@ -87,7 +87,8 @@
     "credentialSubject": {
         "id": "",
         "endDate": "2021-05-15T12:11:59Z",
-        "familyName": "King of the continent",
+        "givenName" : "King of the continent"
+        "familyName": "bguine023",
          "skills": [
         ],
         "title": "Warlord",
@@ -114,7 +115,7 @@
                 ],
                 "reviewRating": {
                     "bestRating": "5",
-                    "ratingValue": "5",
+                    "ratingValue": "2",
                     "type": "Rating",
                     "worstRating": "1"
                 },
@@ -134,7 +135,7 @@
                 ],
                 "reviewRating": {
                     "bestRating": "5",
-                    "ratingValue": "5",
+                    "ratingValue": "4",
                     "type": "Rating",
                     "worstRating": "1"
                 },
@@ -154,7 +155,7 @@
                 ],
                 "reviewRating": {
                     "bestRating": "5",
-                    "ratingValue": "4",
+                    "ratingValue": "1",
                     "type": "Rating",
                     "worstRating": "1"
                 },
@@ -174,7 +175,7 @@
                 ],
                 "reviewRating": {
                     "bestRating": "5",
-                    "ratingValue": "4",
+                    "ratingValue": "3",
                     "type": "Rating",
                     "worstRating": "1"
                 },
