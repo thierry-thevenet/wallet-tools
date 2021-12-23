@@ -89,7 +89,7 @@
         "endDate": "2021-05-15T12:11:59Z",
         "familyName": "King of the continent",
         "title": "Warlord",
-        "description": "Development of an SSI solution for the human sector.",
+         "signatureLines" : {},
         "startDate": "2020-02-01T12:11:59Z",
         "type": "ProfessionalExperienceAssessment",
         "issuedBy": {
