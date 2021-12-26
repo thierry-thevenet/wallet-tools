@@ -58,7 +58,7 @@
      "description": [
         {
             "@language": "en",
-            "@value": "Get a $100 discount on your first Tezotop Block ! \n https://tezotopia.com"
+            "@value": "Get a $100 discount on your first Tezotop Block !"
         },
         {
             "@language": "de",
@@ -66,7 +66,7 @@
         },
         {
             "@language": "fr",
-            "@value": "Gagnez 10% discount sur votre premier Tezotop Block ! \n https://tezotopia.com"
+            "@value": "Gagnez 10% discount sur votre premier Tezotop Block !"
         }
     ],
     "name": [
@@ -80,7 +80,7 @@
         },
         {
             "@language": "fr",
-            "@value": "Tezotopia voucher"
+            "@value": "$100 off Tezotopia blocks"
         }
     ]
 }
