@@ -4,7 +4,7 @@
         {
             "name": "https://schema.org/name",
             "description": "https://schema.org/description",
-            "IdentityPass": {
+            "ProfessionalStudentCard": {
                 "@context": {
                     "@protected": true,
                     "@version": 1.1,
@@ -53,7 +53,7 @@
     "id": "urn:uuid:374d3bea-0e22-11ec-9ef1-f37fc4c32c40",
     "type": [
         "VerifiableCredential",
-        "IdentityPass"
+        "ProfessionalStudentCard"
     ],
     "credentialSubject": {
         "id": "",
@@ -67,7 +67,7 @@
             "address" : "4, rue Louis-Guérin, 69626 Villeurbanne, France",
             "logo" : "https://talao.mypinata.cloud/ipfs/QmXytsKby4yF3TFDfo2KUZSmnkdc7hkFGAPDpTyd3pdBpx"
         },
-        "type": "IdentityPass"
+        "type": "ProfessionalStudentCard"
     },
     "issuer": "",
     "name": [
