@@ -18,6 +18,7 @@
                                 "@id": "schema:logo",
                                 "@type": "@id"
                             },
+                            "address" : "schema:address",
                             "name": "schema:name",
                             "schema": "https://schema.org/"
                         },
