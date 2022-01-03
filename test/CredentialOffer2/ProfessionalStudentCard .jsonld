@@ -64,9 +64,10 @@
             "image" : "https://talao.mypinata.cloud/ipfs/QmTJ2ZMFMBTD2wNndsP4z3GpZzGDDJRXM4gBix1Egf2N9e",
             "jobTitle": "Director"
         },
-        "issuedBy": {
-            "logo": "https://talao.mypinata.cloud/ipfs/QmNwbEEupT7jR2zmrA87FsN4hUS8eXnCxM8DsL9RXc25cu",
-            "name": "Talao"
+          "issuedBy" : {
+            "name": "The Adecco Groupe",
+            "address" : "4, rue Louis-Guérin, 69626 Villeurbanne, France",
+            "logo" : "https://talao.mypinata.cloud/ipfs/QmXytsKby4yF3TFDfo2KUZSmnkdc7hkFGAPDpTyd3pdBpx"
         },
         "type": "ProfessionalStudentCard"
     },
