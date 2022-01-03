@@ -81,17 +81,17 @@
         },
         {
             "@language": "fr",
-            "@value": "Carte d'étudiant des Métiers"
+            "@value": "Carte d'étudiant des métiers"
         }
     ],
     "description": [
         {
             "@language": "en",
-            "@value": "This credential can be used to authenticate with university services (access badge, information system)."
+            "@value": "Issued by Adecco apprenticeship training center."
         },
         {
             "@language": "de",
-            "@value": "Dieser Studierendenausweis dient der Authentifizierung bei den Hochschuldiensten (Zugangsausweis, Informationssystem)."
+            "@value": "Herausgegeben vom Ausbildungszentrum Adecco."
         },
         {
             "@language": "fr",
