@@ -41,11 +41,11 @@
     "id": "urn:uuid:cd8a2a3c-0e22-11ec-9ef1-f37fc4c32c40",
     "type": [
         "VerifiableCredential",
-        "LoyaltyCard"
+        "PremiumWallet"
     ],
     "credentialSubject": {
         "id": "",
-        "type": "LoyaltyCard",
+        "type": "PremiumWallet",
         "familyName": "Thevenet",
         "programName" : "Premium Wallet",
         "issuedBy": {
