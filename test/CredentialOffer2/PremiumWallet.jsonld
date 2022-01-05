@@ -6,7 +6,7 @@
         {
             "name": "https://schema.org/name",
             "description": "https://schema.org/description",
-            "PremieumWallet": {
+            "PremiumWallet": {
                 "@context": {
                     "@protected": true,
                     "@version": 1.1,
