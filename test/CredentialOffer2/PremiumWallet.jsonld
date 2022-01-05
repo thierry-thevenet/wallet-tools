@@ -49,7 +49,8 @@
         "familyName": "Thevenet",
         "programName" : "Premium Wallet",
         "issuedBy": {
-            "logo": "https://talao.mypinata.cloud/ipfs/QmXdKFQDoGpKRb11aj84zmmYXuTNpe7TYaJs9z6b9QN2VM"
+            "logo": "https://talao.mypinata.cloud/ipfs/QmXdKFQDoGpKRb11aj84zmmYXuTNpe7TYaJs9z6b9QN2VM",
+            "name" : "SCORECHAIN"
         },
         "givenName": "Thierry"
     },
