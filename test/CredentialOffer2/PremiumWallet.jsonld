@@ -47,11 +47,9 @@
         "id": "",
         "type": "LoyaltyCard",
         "familyName": "Thevenet",
-        "programName" : "Excellent",
+        "programName" : "Premium Wallet",
         "issuedBy": {
-            "logo": "https://talao.mypinata.cloud/ipfs/QmXdKFQDoGpKRb11aj84zmmYXuTNpe7TYaJs9z6b9QN2VM",
-            "address" : "",
-            "name": ""
+            "logo": "https://talao.mypinata.cloud/ipfs/QmXdKFQDoGpKRb11aj84zmmYXuTNpe7TYaJs9z6b9QN2VM"
         },
         "givenName": "Thierry"
     },
@@ -59,7 +57,7 @@
      "description": [
         {
             "@language": "en",
-            "@value": "This electronic card gives you access to the exclusive Premium Wallet service "
+            "@value": "This electronic card gives you access to the exclusive Premium Wallet service"
         },
         {
             "@language": "de",
@@ -67,7 +65,7 @@
         },
         {
             "@language": "fr",
-            "@value": "This electronic card gives you access to the exclusive Premium Wallet service "
+            "@value": "This electronic card gives you access to the exclusive Premium Wallet service"
         }
     ],
     "name": [
