@@ -70,10 +70,10 @@
     ],
 
     "issuanceDate": "",
-    "expirationDate" : "",
+    "expirationDate" : "2022-09-15T19:55:00Z",
     "credentialSubject" : {
         "type" : "SingleUse",
-        "identifier" : "",
+        "identifier" : "00123401",
         "discount" : "20",
         "issuedBy" : {
             "name" : "Talao",
