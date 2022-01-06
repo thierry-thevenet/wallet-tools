@@ -37,7 +37,7 @@
         }
     ],
     "id": "urn:uuid:8930fe9c-0e22-11ec-9ef1-f37fc4c00c40",
-    "type": ["VerifiableCredential", "SingleUse"],
+    "type": ["VerifiableCredential", "Voucher"],
     "issuer": "",
     "name" : [ 
         {
@@ -71,7 +71,7 @@
     "issuanceDate": "",
     "expirationDate" : "2022-09-15T19:55:00Z",
     "credentialSubject" : {
-        "type" : "SingleUse",
+        "type" : "Voucher",
         "identifier" : "00123401",
         "offer" : {
             "value" : "100",
