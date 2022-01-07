@@ -41,15 +41,15 @@
     "issuer": "",
     "name" : [ 
         {
-            "@value": "100% off Tezotopia blocks",
+            "@value": "$100 off Tezotopia blocks",
             "@language": "en"
         },
         {
-            "@value": "100% off Tezotopia blocks",
+            "@value": "$100 off Tezotopia blocks",
             "@language": "de"
         },
         {
-            "@value": "100% off Tezotopia blocks",
+            "@value": "$100 off Tezotopia blocks",
             "@language": "fr"
         }
     ],
