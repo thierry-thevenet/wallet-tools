@@ -17,7 +17,7 @@
             }
         },
         {
-            "description": "hhtps://chema.org/description",
+            "description": "https://schema.org/description",
             "name": "https://schema.org/name",
                    
             "ResidentCard": {
@@ -60,7 +60,7 @@
         "ResidentCard"
     ],
     "evidence": [{
-                "id": "https://talao.io/",
+                "id": "https://talao.io/my_proof_in_a_readable_form",
                 "type": ["DocumentVerification"]
                 }
      ], 
