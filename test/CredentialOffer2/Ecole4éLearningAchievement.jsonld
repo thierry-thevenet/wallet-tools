@@ -1,0 +1,112 @@
+{
+    "@context": [
+        "https://www.w3.org/2018/credentials/v1",
+        "https://w3id.org/vc-revocation-list-2020/v1",
+        {
+            "name": "https://schema.org/name",
+            "description": "https://schema.org/description",
+            "Ecole42LearningAchievement": {
+                "@context": {
+                    "@protected": true,
+                    "@version": 1.1,
+                    "birthDate": "schema:birthDate",
+                    "email": "schema:email",
+                    "familyName": "schema:familyName",
+                    "givenName": "schema:givenName",
+                    "hasCredential": {
+                        "@context": {
+                            "@protected": true,
+                            "@version": 1.1,
+                            "description": "schema:description",
+                            "inDefinedTermSet": "schema:inDefinedTermSet",
+                            "title": "schema:title"
+                        },
+                        "@id": "https://hnc-path-to-facilities-management-definition"
+                    },
+                    "id": "@id",
+                    "issuedBy": {
+                        "@context": {
+                            "@protected": true,
+                            "@version": 1.1,
+                            "address": "schema:address",
+                            "logo": {
+                                "@id": "schema:image",
+                                "@type": "@id"
+                            },
+                            "naf": "schema:identifier",
+                            "name": "schema:name",
+                            "siret": "schema:identifier"
+                        },
+                        "@id": "schema:issuedBy"
+                    },
+                    "schema": "https://schema.org/",
+                    "signatureLines": {
+                        "@context": {
+                            "@protected": true,
+                            "@version": 1.1,
+                            "image": {
+                                "@id": "schema:image",
+                                "@type": "@id"
+                            },
+                            "jobTitle": "schema:jobTitle",
+                            "name": "schema:name",
+                            "schema": "https://schema.org/"
+                        },
+                        "@id": "https://github.com/blockchain-certificates/cert-schema/blob/master/docs/signatureLineExtension_schema.md"
+                    },
+                    "type": "@type"
+                },
+                "@id": "https://github.com/TalaoDAO/context/blob/main/README.md#learningachievement"
+            }
+        }
+    ],
+    "id": "urn:uuid:83482178-162d-4ad3-9d9c-721699a85532",
+    "type": [
+        "VerifiableCredential",
+        "Ecole42LearningAchievement"
+    ],
+    "credentialSubject": {
+        "id": "did:tz:tz2E4kuaB9zHa1C3LqNeZncvZogYjQsXxvxz",
+        "givenName": "Lea",
+        "signatureLines": {
+            "image": "https://gateway.pinata.cloud/ipfs/QmUgT4AudDdqWBMhWMBR9MDAiV25ZyLBHh973Pc5qKHnif",
+            "jobTitle": "Executive Director of 42",
+            "name": "Sophie Vigier"
+        },
+        "birthDate": "2000-02-15",
+        "hasCredential": {
+            "description": "Curriculum of architect in digital technologies",
+            "inDefinedTermSet": "https://talao.io/vocab_tobedefined",
+            "title": "Certificate of Completion 42"
+        },
+        "familyName": "Skywalker",
+        "issuedBy": {
+            "address": "96 Boulevard Bessières, 75017 Paris",
+            "logo": "https://talao.mypinata.cloud/ipfs/QmRv2vD6AGiHPDhfqgLFcWYfy4Xy84yNq6wMGdgJTjZc3S",
+            "naf": "85598",
+            "name": "Association 42",
+            "siret": "791 199 193 000 16"
+        },
+        "type": "Ecole42LearningAchievement"
+    },
+    "issuer": "",
+    "expirationDate": "2022-02-16T09:55:43Z",
+    "evidence": {
+        "id": "https://gateway.pinata.cloud/ipfs/QmUBrgmt37U57XTfQkmvamfQsNJm7sULuNzXCK7pxLtXRh",
+        "type": [
+            "DocumentVerification"
+        ]
+    },
+    "name": [
+        {
+            "@language": "fr",
+            "@value": "Certificate of completion 42"
+        }
+    ],
+    "description": [
+        {
+            "@language": "fr",
+            "@value": "Curriculum of architect in digital technologies"
+        }
+    ]
+}
