@@ -18,6 +18,7 @@
                             "@protected": true,
                             "@version": 1.1,
                             "description": "schema:description",
+                            "level" : "schema:identifier",
                             "inDefinedTermSet": "schema:inDefinedTermSet",
                             "title": "schema:title"
                         },
@@ -76,6 +77,7 @@
         "birthDate": "2000-02-15",
         "hasCredential": {
             "description": "Curriculum of architect in digital technologies",
+            "level" : "12",
             "inDefinedTermSet": "https://talao.io/vocab_tobedefined",
             "title": "Certificate of Completion 42"
         },
