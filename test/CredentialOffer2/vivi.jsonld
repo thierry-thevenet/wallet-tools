@@ -60,7 +60,7 @@
                                 "familyName": "schema:familyName",
 
                                 "givenName": "schema:givenName",
-                             "email" : "schema:image",
+                             "email" : "schema:email",
 
                                 "image": {
 
