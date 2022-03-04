@@ -1,8 +1,5 @@
 
-
 {
-
- 
 
         "@context": [
 
@@ -63,6 +60,7 @@
                                 "familyName": "schema:familyName",
 
                                 "givenName": "schema:givenName",
+                             "email" : "schema:image",
 
                                 "image": {
 
