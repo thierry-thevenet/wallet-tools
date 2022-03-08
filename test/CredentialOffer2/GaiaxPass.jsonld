@@ -1,0 +1,95 @@
+{
+    "@context": ["https://www.w3.org/2018/credentials/v1",
+        {
+            "name" : "https://schema.org/name",
+            "description" : "https://schema.org/description",
+            "GaiaxPass" : {
+                "@id": "https://gaia-x.gitlab.io/policy-rules-committee/trust-framework/participant/",
+                "@context": {
+                    "@version": 1.1,
+                    "@protected": true,
+                    "schema" : "https://schema.org/",
+                    "id": "@id",
+                    "type": "@type",
+                    "company_number" : "schema:taxID",
+                    "headquarter": {
+                        "@id": "https://gaia-x.gitlab.io/policy-rules-committee/trust-framework/participant/",
+                        "@context": {
+                            "@version": 1.1,
+                            "@protected": true,
+                            "schema" : "https://schema.org/",
+                            "country" :   "schema:addressCountry"
+                        }
+                    },
+                    "issuedBy" : {
+                        "@id" : "schema:issuedBy",
+                        "@context" : {
+                            "@version": 1.1,
+                            "@protected": true,
+                            "logo": {"@id" : "schema:image", "@type" : "@id"},
+                            "name" : "schema:name"
+                        }
+                    },
+                    "legal": {
+                        "@id": "https://gaia-x.gitlab.io/policy-rules-committee/trust-framework/participant/",
+                        "@context": {
+                            "@version": 1.1,
+                            "@protected": true,
+                            "schema" : "https://schema.org/",
+                            "country" :   "schema:addressCountry"
+                        }
+                    },
+                    "lei" : "schema:leiCode",
+                    "parentOrganisation" : "schema:parentOrganization",
+                    "subOrganisation" : "schema:subOrganization"                   
+                }
+            }
+        }
+    ],
+    "id": "",
+    "type": ["VerifiableCredential", "GaiaxPass"],
+    "name" : [ 
+        {
+            "@value": "Gaia-X Pass",
+            "@language": "en"
+        },
+        {
+            "@value": "Gaia-X Pass",
+            "@language": "de"
+        },
+        {
+            "@value": "Gaia-X Pass",
+            "@language": "fr"
+        }
+    ],
+    "description" : [
+        {
+            "@language": "en",
+            "@value": "This signed electronic credential is a Gaia-X pass issued by Talao."
+        },
+        {
+            "@language": "de",
+            "@value": "Dieser signierte elektronische Ausweis ist ein Gaia-X-Pass."
+        },
+        {
+            "@language": "fr",
+            "@value": "Ce credential est un pass Gaia-X signé par Talao."
+        }
+    ],
+    "issuer": "",
+    "issuanceDate": "",
+    "credentialSubject" : {
+        "type" : "GaiaxPass",
+        "company_number" : " FR7501.837674480",
+        "headquarter" : {
+            "country" :"FR"
+        },
+        "legal" : {
+            "country" : "FR"
+        },
+        "issuedBy" : {
+            "name" : "Talao",
+            "logo" : "https://talao.mypinata.cloud/ipfs/QmNwbEEupT7jR2zmrA87FsN4hUS8eXnCxM8DsL9RXc25cu"
+        }
+    }
+}
