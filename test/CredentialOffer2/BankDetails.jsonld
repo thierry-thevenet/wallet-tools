@@ -64,12 +64,6 @@
         }
     },
     "issuer": "",
-    "credentialStatus": {
-        "id": "urn:uuid:531280fb-43a7-11ec-bad5-b5c99d8bb8cd",
-        "type": "RevocationList2020Status",
-        "revocationListIndex": "50000",
-        "revocationListCredential": "https://talao.co/credentials/status/3"
-    },
     "name": [
         {
             "@language": "en",
