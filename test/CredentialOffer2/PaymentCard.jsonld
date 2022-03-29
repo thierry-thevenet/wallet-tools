@@ -12,6 +12,7 @@
                     "id": "@id",
                     "identifier": "schema:identifier",
                     "name": "schema:name",
+                    "validity" : "schema:date",
                     "provider": {
                         "@context": {
                             "@protected": true,
@@ -43,6 +44,7 @@
         "type": "PaymentCard",
         "category": "Debit Card",
         "name": "John Doe",
+        "validity" : "2025-11-09T08:57:23Z",
         "provider": {
             "logo": "https://talao.mypinata.cloud/ipfs/QmU8z1aDDpbgVjXwU8nMvgU3YD4VeUzHTkitsELZRFBBZa",
             "name": "SSI Bank"
