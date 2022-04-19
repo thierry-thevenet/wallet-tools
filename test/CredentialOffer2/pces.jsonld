@@ -40,6 +40,7 @@
 		],
 		"credentialSubject": {
 			"id": "",
+			"type" = "PCDSAuditorCertificate",
 			"certifiedBy": {
 				"logo": "",
 				"name": "",
