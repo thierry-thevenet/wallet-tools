@@ -50,7 +50,7 @@
         "issuedBy": {
             "logo": "https://talao.mypinata.cloud/ipfs/QmZmdndUVRoxiVhUnjGrKnNPn8ah3jT8fxTCLMnAzRAFFZ",
             "address" : "",
-            "name": ""
+            "name": "Tezotopia"
         },
         "givenName": "Thierry"
     },
@@ -58,7 +58,7 @@
      "description": [
         {
             "@language": "en",
-            "@value": "This is the Tezotopia loyalty card"
+            "@value": ""
         },
         {
             "@language": "de",
@@ -66,13 +66,13 @@
         },
         {
             "@language": "fr",
-            "@value": "Carte de fidélité Tezotopia"
+            "@value": ""
         }
     ],
     "name": [
         {
             "@language": "en",
-            "@value": "Tezotopia VIP Card"
+            "@value": "Loyalty card"
         },
         {
             "@language": "de",
@@ -80,7 +80,7 @@
         },
         {
             "@language": "fr",
-            "@value": "Carte VIP Tezotopia"
+            "@value": "Carte de fidélité"
         }
     ]
 }
