@@ -53,10 +53,6 @@
 		},
 		"issuer": "did:...",
 		"issuanceDate": "2020-12-01T07:47:01Z",
-		"credentialSchema": {
-			"id": "...",
-			"type": "JsonSchemaValidator2021"
-		},
 		"description": [
 			{
 				"@language": "en",
