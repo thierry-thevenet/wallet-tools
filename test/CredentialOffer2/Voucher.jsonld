@@ -41,7 +41,7 @@
     "issuer": "",
     "name" : [ 
         {
-            "@value": "$100 off Tezotopia blocks",
+            "@value": "Voucher 15% NFT",
             "@language": "en"
         },
         {
@@ -49,14 +49,14 @@
             "@language": "de"
         },
         {
-            "@value": "Offre Tezotopia",
+            "@value": "Voucher 15% NFT",
             "@language": "fr"
         }
     ],
     "description" : [
         {
             "@language": "en",
-            "@value": "Get a $100 discount on your first Tezotop Block ! "
+            "@value": ""
         },
         {
             "@language": "de",
@@ -64,7 +64,7 @@
         },
         {
             "@language": "fr",
-            "@value": "Obtenez 100 Euros de discount sur votre premier NFT !"
+            "@value": ""
         }
     ],
 
