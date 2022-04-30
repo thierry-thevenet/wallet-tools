@@ -88,7 +88,7 @@
     "name": [
         {
             "@language": "en",
-            "@value": "Professional Student Card"
+            "@value": "Student Card"
         },
         {
             "@language": "de",
@@ -96,7 +96,7 @@
         },
         {
             "@language": "fr",
-            "@value": "Carte étudiant des métiers"
+            "@value": "Carte étudiant"
         }
     ],
     "description": [
