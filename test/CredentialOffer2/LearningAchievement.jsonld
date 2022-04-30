@@ -48,6 +48,10 @@
         {
             "@language": "fr",
             "@value": "Diplome"
+        },
+        {
+            "@language": "en",
+            "@value": "Diploma"
         }
     ],
      "description" :[ 
@@ -67,7 +71,7 @@
             "description" : "Cette certification se propose de faire face à l'évolution structurelle et souhaitable du métier de chargé(e) de recrutement."
         },
         "issuedBy" : {
-            "name": "The Adecco Groupe",
+            "name": "The SSI University",
             "address" : "4, rue Louis-Guérin, 69626 Villeurbanne, France",
             "logo" : "https://talao.mypinata.cloud/ipfs/QmXytsKby4yF3TFDfo2KUZSmnkdc7hkFGAPDpTyd3pdBpx"
         }
