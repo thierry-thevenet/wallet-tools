@@ -43,13 +43,13 @@
 			"type" : "PCDSAuditorCertificate",
 			"certifiedBy": {
 				"logo": "",
-				"name": "",
-				"address": "",
-				"certificationBodyId": ""
+				"name": "Talao Authority",
+				"address": "16 rue du General De Gaulle Paris, France",
+				"certificationBodyId": "456FT568-FR"
 			},
-			"familyName": "",
-			"givenName": "",
-			"certificationDate": ""
+			"familyName": "Doe",
+			"givenName": "Etienne",
+			"certificationDate": ""2020-12-01"
 		},
 		"issuer": "did:...",
 		"issuanceDate": "2020-12-01T07:47:01Z",
