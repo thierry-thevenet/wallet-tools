@@ -49,7 +49,7 @@
 			},
 			"familyName": "Doe",
 			"givenName": "Etienne",
-			"certificationDate": ""2020-12-01"
+			"certificationDate": "2020-12-01"
 		},
 		"issuer": "did:...",
 		"issuanceDate": "2020-12-01T07:47:01Z",
