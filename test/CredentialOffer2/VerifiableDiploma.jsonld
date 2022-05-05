@@ -11,6 +11,7 @@
     "type": "CredentialStatusList2020"
   },
   "credentialSubject": {
+    "type" : "VerifiableDiploma", 
     "awardingOpportunity": {
       "awardingBody": {
         "eidasLegalIdentifier": "Unknown",
