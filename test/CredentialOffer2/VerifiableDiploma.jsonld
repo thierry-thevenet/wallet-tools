@@ -8,7 +8,7 @@
       "subjectPresence" : "https://schema.org/subjectPresence",
       "verifier" : "https://schema.org/verifier"
     },
-    { "schema" : "httsp://schema.org/",
+    { "schema" : "https://schema.org/",
       "VerifiableDiploma": "schema:VerifiableDiploma", 
       "awardingOpportunity" : "schema:awardingOpportunity",          
       "awardingBody" : "schema:awardingBody",
