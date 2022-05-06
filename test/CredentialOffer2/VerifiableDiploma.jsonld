@@ -27,7 +27,7 @@
       "title" : "schema:title",
       "learningAchievement" : "schema:learningAchievement",
       "additionalNote" : "shema:additionalNote",
-      "description" : "schema:desxcription",
+      "description" : "schema:description",
       "learningSpecification" : "schema:learningSpecifications",
       "ectsCreditPoints" : "schema:ectsCreditPoints",
       "eqfLevel" : "schema:eqfLevel",
