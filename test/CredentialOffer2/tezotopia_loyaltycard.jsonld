@@ -58,21 +58,21 @@
      "description": [
         {
             "@language": "en",
-            "@value": ""
+            "@value": "Get rewards and benefits with the amazing community card of Tezotopia."
         },
         {
             "@language": "de",
-            "@value": ""
+            "@value": "Get rewards and benefits with the amazing community card of Tezotopia."
         },
         {
             "@language": "fr",
-            "@value": ""
+            "@value": "Get rewards and benefits with the amazing community card of Tezotopia."
         }
     ],
     "name": [
         {
             "@language": "en",
-            "@value": "Loyalty card"
+            "@value": "Tezotopia community card"
         },
         {
             "@language": "de",
@@ -80,7 +80,7 @@
         },
         {
             "@language": "fr",
-            "@value": "Carte de fidélité"
+            "@value": "Carte de fidélité Tezotopia"
         }
     ]
 }
