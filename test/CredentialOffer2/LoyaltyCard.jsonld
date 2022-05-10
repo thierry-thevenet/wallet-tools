@@ -45,7 +45,7 @@
         "id": "",
         "type": "LoyaltyCard",
         "familyName": "Thevenet",
-        "programName" : "Excellent",
+        "programName" : "VIP card Ultra",
         "issuedBy": {
             "logo": "https://talao.mypinata.cloud/ipfs/QmNwbEEupT7jR2zmrA87FsN4hUS8eXnCxM8DsL9RXc25cu",
             "address" : "",
@@ -57,7 +57,7 @@
      "description": [
         {
             "@language": "en",
-            "@value": "Community card to get NFT rewardss on teh Tezotopia crypto game."
+            "@value": "Community card to get NFT rewards and benefits."
         },
         {
             "@language": "de",
