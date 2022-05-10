@@ -47,9 +47,9 @@
         "familyName": "Thevenet",
         "programName" : "Excellent",
         "issuedBy": {
-            "logo": "https://talao.mypinata.cloud/ipfs/QmeA1xTT7xBxxsEG7UCFoMXUvW94QtidZJBmx545wX3Lyu",
-            "address" : "28, rue du Saint Esprit, 31000 Toulouse, France",
-            "name": "Leroy Merlin"
+            "logo": "https://talao.mypinata.cloud/ipfs/QmNwbEEupT7jR2zmrA87FsN4hUS8eXnCxM8DsL9RXc25cu",
+            "address" : "",
+            "name": "Talao"
         },
         "givenName": "Thierry"
     },
@@ -57,7 +57,7 @@
      "description": [
         {
             "@language": "en",
-            "@value": "Electronic loyalty card\n\n\n"
+            "@value": "Community card to get NFT rewardss on teh Tezotopia crypto game."
         },
         {
             "@language": "de",
@@ -65,21 +65,21 @@
         },
         {
             "@language": "fr",
-            "@value": "Carte de fidélité\n\n\n"
+            "@value": "Profitez des avantages et des rewards du jeu Tezotopia."
         }
     ],
     "name": [
         {
             "@language": "en",
-            "@value": "My home card"
+            "@value": "Tezotopia Community"
         },
         {
             "@language": "de",
-            "@value": "Kundenkarte"
+            "@value": ""
         },
         {
             "@language": "fr",
-            "@value": "ma carte maison"
+            "@value": "Tezotopia community"
         }
     ]
 }
