@@ -2,7 +2,7 @@
     "@context": [
         "https://www.w3.org/2018/credentials/v1",
         {
-            "name": "hhtps://schema.org/name",
+            "name": "https://schema.org/name",
             "description": "https://schema.org/description",
             "AffiliationCard": {
                 "@context": {
