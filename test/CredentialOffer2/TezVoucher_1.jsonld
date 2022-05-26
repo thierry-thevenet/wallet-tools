@@ -53,7 +53,7 @@
                             "@protected": true,
                             "startDate" : "schema:date",
                             "category" : "schema:category",
-                            "duration :schema:duration",
+                            "duration" : "schema:duration",
                             "endDate" : "schema:date",
                             "benefit" : {
                                 "@id" : "https://github.com/TalaoDAO/context/blob/main/README",
