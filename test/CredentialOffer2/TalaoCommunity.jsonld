@@ -77,13 +77,13 @@
             }
         }
     ],
-    "id": "did:tz2:....",
+    "id": "uuid:random",
     "type": ["VerifiableCredential", "TalaoCommunity"],
-    "issuer": "did:key:z6MkftN6LL5DRTG8u5LjhQuwUconSp3wremHoMjcH1LP7Hxd",
-    "issuanceDate": "2020-08-19T21:41:50Z",
+    "issuer": "did:issuer",
+    "issuanceDate": "2022-00-00T00:00:00Z",
     "credentialSubject": 
         {
-            "id": "did:key:z6MkftN6LL5DRTG8u5LjhQuwUconSp3wremHoMjcH1LP7Hxd",
+            "id": "did:wallet",
             "type": "TalaoCommunity",
             "walletNotation" : "Gold",
             "talaoAccount": "0x83E0481C1844Ed257efE1147218C125832F10236",
