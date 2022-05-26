@@ -77,7 +77,7 @@
             }
         }
     ],
-    "id": "uuid:random",
+    "id": "urn:random",
     "type": ["VerifiableCredential", "TalaoCommunity"],
     "issuer": "did:issuer",
     "issuanceDate": "2022-00-00T00:00:00Z",
