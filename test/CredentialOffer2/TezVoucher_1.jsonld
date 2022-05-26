@@ -53,6 +53,7 @@
                             "@protected": true,
                             "startDate" : "schema:date",
                             "category" : "schema:category",
+                            "duration :schema:duration",
                             "endDate" : "schema:date",
                             "benefit" : {
                                 "@id" : "https://github.com/TalaoDAO/context/blob/main/README",
@@ -166,6 +167,7 @@
             "startDate" : "2022-04-08T19:55:00Z",
             "endDate" : "2022-06-08T19:55:00Z",
             "category" : "discounted_coupon",
+            "duration" : "30",
             "benefit" : {
                 "category" : "discount",
                 "discount" : "5%"
