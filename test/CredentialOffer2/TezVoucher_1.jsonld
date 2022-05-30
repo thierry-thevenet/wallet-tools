@@ -28,6 +28,8 @@
                             "name" : "schema:name",
                             "did" : "schema:identifier",
                             "email" : "schema:email",
+                            "phone" : "schema:telephone",
+                            "pseudo" : "schema:givenName",
                             "benefit" : {
                                 "@id" : "https://github.com/TalaoDAO/context/blob/main/README",
                                 "@context" : {
