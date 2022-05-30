@@ -194,8 +194,10 @@
             }
         },
         "affiliate": {
-            "name": "Podo",
-            "email" : "podo@gmail.com",
+            "name": "to be filled or removed",
+            "email" : "to be filled or removed",
+            "phone" : "to be filled or removed",
+            "pseudo" : "to be filled or removed",
             "paymentAccepted" : {
                 "blockchain" : "Tezos",
                 "currency" : "XTZ",
