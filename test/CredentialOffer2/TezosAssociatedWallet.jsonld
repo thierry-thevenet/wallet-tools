@@ -7,12 +7,22 @@
 		}	
    	],
 	"id" : "urn:uuid:53d-bb37-0242ac130002",
-	"name": "My Tezos associated wallet",
+	 "name" : [ 
+        	{
+            		"@value": "My Tezos associated wallet",
+            		"@language": "en"
+        	}
+    	],
+    	"description" : [
+        	{
+            		"@language": "en",
+            		"@value": "This uses the DID of the crypto wallet associated with AltMe"
+        	}
+    	],
 	"type": [
         		"VerifiableCredential",
            		"TezosAssociatedWallet"
 	],
-	"description" : "This uses the DID of the crypto wallet associated with AltMe",
 	"issuer" : "did:key:crypto_wallet",
 	"issuanceDate": "2022-00-00T00:00:00Z",
     	"expirationDate" : "2023-00-00T00:00:00Z",
