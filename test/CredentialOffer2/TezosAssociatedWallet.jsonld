@@ -18,6 +18,6 @@
 	"credentialSubject" : {
        		"id" : "did:key:wallet AltMe",
        		"type" : "TezosAssociatedWallet",
-			"correlation" : ["tz24567864dfdhg45"]			
+		"correlation" : ["tz100000000"]			
 	}
 }
