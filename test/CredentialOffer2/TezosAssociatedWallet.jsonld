@@ -6,14 +6,14 @@
 			"correlation" : "https://schema.org/correlation"
 		}	
    	],
-	"id" : "urn:uuid:53d…..bb37-0242ac130002",
+	"id" : "urn:uuid:53d-bb37-0242ac130002",
 	"name": "My Tezos associated wallet",
 	"type": [
         		"VerifiableCredential",
            		"TezosAssociatedWallet"
 	],
 	"description" : "This uses the DID of the crypto wallet associated with AltMe",
-	"issuer" : "did:key:crypto_wallet.....",
+	"issuer" : "did:key:crypto_wallet",
 	"issuanceDate": "2022-00-00T00:00:00Z",
     	"expirationDate" : "2023-00-00T00:00:00Z",
 	"credentialSubject" : {
