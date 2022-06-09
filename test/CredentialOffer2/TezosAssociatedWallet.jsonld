@@ -24,8 +24,6 @@
            		"TezosAssociatedWallet"
 	],
 	"issuer" : "did:key:crypto_wallet",
-	"issuanceDate": "2022-00-00T00:00:00Z",
-    	"expirationDate" : "2023-00-00T00:00:00Z",
 	"credentialSubject" : {
        		"id" : "did:key:wallet AltMe",
        		"type" : "TezosAssociatedWallet",
