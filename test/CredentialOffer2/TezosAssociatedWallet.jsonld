@@ -14,7 +14,8 @@
 	],
 	"description" : "This uses the DID of the crypto wallet associated with AltMe",
 	"issuer" : "did:key:crypto_wallet.....",
-	"expirationDate" : "ceci est une date au format Z",
+	"issuanceDate": "2022-00-00T00:00:00Z",
+    	"expirationDate" : "2023-00-00T00:00:00Z",
 	"credentialSubject" : {
        		"id" : "did:key:wallet AltMe",
        		"type" : "TezosAssociatedWallet",
