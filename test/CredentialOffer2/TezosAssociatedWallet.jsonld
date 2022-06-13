@@ -3,8 +3,8 @@
 		{
 			"name" : "https://schema.org/name",
 			"description" : "https://schema.org/description",
-			“walletName” : "https://schema.org/name”,
-			"accountName" :  "https://schema.org/name”,
+			"walletName" : "https://schema.org/walletName",
+			"accountName" :  "https://schema.org/name",
 			"correlation" : "https://schema.org/correlation"
 
 		}	
@@ -30,8 +30,8 @@
 	"credentialSubject" : {
        		"id" : "did:key:wallet AltMe",
        		"type" : "TezosAssociatedWallet",
-		“walletName” : "Temple",
-		“accountName” : "Account 1”,
-		"correlation" : "tz2...."			
+			"walletName" : "Temple",
+			"accountName" : "Account 1",
+			"correlation" : "tz2...."			
 	}
 }
