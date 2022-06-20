@@ -67,17 +67,17 @@
         "givenName": "Lea",
         "birthDate": "2000-02-15",
         "hasCredential": {
-            "title":  "Certificat Professionnel Chargé(e) de recrutement",
+            "title":  "Bachelor of Science",
             "description" : "Cette certification se propose de faire face à l'évolution structurelle et souhaitable du métier de chargé(e) de recrutement."
         },
         "issuedBy" : {
-            "name": "The SSI University",
+            "name": "ENSAM ParisTech",
             "address" : "4, rue Louis-Guérin, 69626 Villeurbanne, France",
             "logo" : "https://talao.mypinata.cloud/ipfs/QmXytsKby4yF3TFDfo2KUZSmnkdc7hkFGAPDpTyd3pdBpx"
         }
     },
     "evidence": {
-        "id": "https://example.edu/tobedefined",
+        "id": "https://artsetmetiers.fr/fr",
         "type": ["DocumentVerification"]
     }
 }
