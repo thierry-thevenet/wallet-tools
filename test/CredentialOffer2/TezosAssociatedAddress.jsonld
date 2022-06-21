@@ -2,8 +2,8 @@
 	"@context": [ "https://www.w3.org/2018/credentials/v1", 
 		{
 			"accountName" :  "https://schema.org/identifier",
-      			"associatedAddress" : "https://schema.org/account"
-       		},
+      		"associatedAddress" : "https://schema.org/account"
+       		}
    	],
 	"id" : "urn:uuid:53d-bb37-0242ac130002",
 	"type": [
@@ -15,7 +15,6 @@
        		"id" : "did:key:wallet AltMe",
        		"type" : "TezosAssociatedAddress",
           	"associatedAddress" : "tz1345765476547654",
-		"accountName" : "Account 1",
-		
+		    "accountName" : "Account 1"
 	}
 }
