@@ -2,7 +2,9 @@
 	"@context": [ "https://www.w3.org/2018/credentials/v1", 
 		{
 			"accountName" :  "https://schema.org/identifier",
-      		"associatedAddress" : "https://schema.org/account"
+			"description" : "https://schema.org/description",
+      			"associatedAddress" : "https://schema.org/account",
+			"name" : "https://schema.org/name"
        		}
    	],
 	"id" : "urn:uuid:53d-bb37-0242ac130002",
@@ -11,6 +13,8 @@
            		"TalaoAssociatedAddress"
 	],
 	"issuer" : "did:key:crypto_wallet",
+	"description" : "to be defined",
+	"name" : "TALAO token account,
 	"credentialSubject" : {
        		"id" : "did:key:wallet AltMe",
        		"type" : "TalaoAssociatedAddress",
