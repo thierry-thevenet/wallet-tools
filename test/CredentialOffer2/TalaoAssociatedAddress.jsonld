@@ -14,7 +14,7 @@
 	],
 	"issuer" : "did:key:crypto_wallet",
 	"description" : "to be defined",
-	"name" : "TALAO token account,
+	"name" : "TALAO token account",
 	"credentialSubject" : {
        		"id" : "did:key:wallet AltMe",
        		"type" : "TalaoAssociatedAddress",
