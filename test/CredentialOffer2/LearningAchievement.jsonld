@@ -66,6 +66,7 @@
         "familyName": "Skywalker",
         "givenName": "Lea",
         "birthDate": "2000-02-15",
+        "email" : "lea@sky.com",
         "hasCredential": {
             "title":  "Bachelor of Science",
             "description" : "Cette certification se propose de faire face à l'évolution structurelle et souhaitable du métier de chargé(e) de recrutement."
