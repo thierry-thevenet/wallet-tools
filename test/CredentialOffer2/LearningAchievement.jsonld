@@ -56,8 +56,8 @@
     ],
      "description" :[ 
         {
-            "@language": "fr",
-            "@value": "Diplome, qualification, etc...reconnu par l'état"
+            "@language": "en",
+            "@value": ""
         }
     ],
     "credentialSubject": {
