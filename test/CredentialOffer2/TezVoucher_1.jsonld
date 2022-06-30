@@ -123,30 +123,14 @@
     "issuer": "did:tz:issuer",
     "name" : [ 
         {
-            "@value": "5% off Tezotopia NFTs",
+            "@value": "15% off Tezotopia NFTs",
             "@language": "en"
-        },
-        {
-            "@value": "5% off Tezotopia NFTs",
-            "@language": "de"
-        },
-        {
-            "@value": "5% de reduction sur les NFT Tezotopia",
-            "@language": "fr"
         }
     ],
     "description" : [
         {
             "@language": "en",
-            "@value": "Get a 5% discount on your first Tezotop Block ! "
-        },
-        {
-            "@language": "de",
-            "@value": "Erhalten Sie 5 % Rabatt auf Ihren ersten Tezotop-Block!"
-        },
-        {
-            "@language": "fr",
-            "@value": "Bénéficiez de 5% de réduction sur votre premier Bloc Tezotop ! "
+            "@value": "Get a 15% discount on your first Tezotop Block ! "
         }
     ],
     "credentialSubject" : {
