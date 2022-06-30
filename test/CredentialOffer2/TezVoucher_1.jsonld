@@ -2,8 +2,6 @@
     "@context": [
         "https://www.w3.org/2018/credentials/v1",
         {
-            "name" : "https://schema.org/name",
-            "description" : "https://schema.org/description",
             "TezVoucher_1" : {
                 "@id": "https://github.com/TalaoDAO/context/blob/main/README.md",
                 "@context": {
@@ -121,18 +119,6 @@
     "id": "urn:uuid:random",
     "type": ["VerifiableCredential", "TezVoucher_1"],
     "issuer": "did:tz:issuer",
-    "name" : [ 
-        {
-            "@value": "15% off Tezotopia NFTs",
-            "@language": "en"
-        }
-    ],
-    "description" : [
-        {
-            "@language": "en",
-            "@value": "Get a 15% discount on your first Tezotop Block ! "
-        }
-    ],
     "credentialSubject" : {
         "id" : "did:wallet",
         "type" : "TezVoucher_1",
