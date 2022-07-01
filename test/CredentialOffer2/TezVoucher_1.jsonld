@@ -123,26 +123,26 @@
         "id" : "did:wallet",
         "type" : "TezVoucher_1",
         "associatedAddress" : {
-                "blockchainTezos" : "tz1345765476547654",
-                "blockchainEthereum" : "0x1345765476547654"
+                "blockchainTezos" : "",
+                "blockchainEthereum" : ""
         },
         "offers" : [{
             "startDate" : "2022-04-08T19:55:00Z",
             "endDate" : "2022-06-08T19:55:00Z",
             "category" : "discounted_coupon",
-            "duration" : "30",
+            "duration" : "",
             "benefit" : {
                 "category" : "discount",
-                "discount" : "5%"
+                "discount" : "15%"
             },    
             "offeredBy": {
                 "logo": "ipfs://QmZmdndUVRoxiVhUnjGrKnNPn8ah3jT8fxTCLMnAzRAFFZ",
                 "name": "GifGames",
-                "description" : "gaming platform Tezotopia",
+                "description" : "Gaming platform of Tezotopia",
                 "paymentMethod" : {
                     "blockchain" : "Tezos",
                     "currency" : "XTZ",
-                    "blockchainAccount" : "tz1iyjrTUNxDpPaqNZ84ipGELAcTWYg66789"
+                    "blockchainAccount" : ""
                 }
             }
         }],
@@ -152,12 +152,12 @@
             "paymentAccepted" : {
                 "blockchain" : "Tezos",
                 "currency" : "XTZ",
-                "blockchainAccount" : "tz1NyjrTUNxDpPaqNZ84ipGELAcTWYg6s5Du"
+                "blockchainAccount" : "tz1Q7zwo7fmRNyCL7jdz6hcPSsYukkWY66Q3"
             },
             "paymentMethod" : {
                 "blockchain" : "Tezos",
                 "currency" : "XTZ",
-                "blockchainAccount" : "tz1NyjrTUNxDpPaqNZ84ipGELAcTWYg6s5Du"
+                "blockchainAccount" : "tz1NJrXkEhwcqNxkARvb44psCCb4VyJ4Qh1b"
             }
         },
         "affiliate": {
@@ -168,11 +168,11 @@
             "paymentAccepted" : {
                 "blockchain" : "Tezos",
                 "currency" : "XTZ",
-                "blockchainAccount" : "tz1NyjrTUNxDpPaqNZ84ipGELAcTWYg5555"
+                "blockchainAccount" : ""
             },
             "benefit" : {
                 "category" : "commission",
-                "incentiveCompensation" : "2%"
+                "incentiveCompensation" : "5%"
             }   
         }
     }
