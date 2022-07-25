@@ -44,15 +44,15 @@
     "credentialSubject": {
         "id": "",
         "type": "LoyaltyCard",
-        "familyName": "Thevenet",
-        "programName" : "VIP card Ultra",
+        "familyName": "",
+        "programName" : "Tezotopia VIP card Ultra",
         "duration" : "360",
         "issuedBy": {
             "logo": "https://talao.mypinata.cloud/ipfs/QmNwbEEupT7jR2zmrA87FsN4hUS8eXnCxM8DsL9RXc25cu",
             "address" : "",
             "name": "Talao"
         },
-        "givenName": "Thierry"
+        "givenName": ""
     },
     "issuer": ""
 }
