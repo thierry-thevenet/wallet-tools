@@ -10,7 +10,7 @@
                     "schema" : "https://schema.org/",
                     "id": "@id",
                     "type": "@type",
-                    "birthDate" : "schema:birthDate",
+                    "agerange" : "schema:ageRange",
                     "addressCountry" : "schema:addressCountry",
                     "duration" : "schema:duration",
                     "email" : "schema:email",
@@ -45,7 +45,7 @@
     "credentialSubject" : {
         "id" : "",
         "type" : "TezLoyaltyCard_1",
-        "birthDate" :"",
+        "agerange" :"18-25",
         "duration" : "360",
         "addressCountry" : "",
         "email" :"",
