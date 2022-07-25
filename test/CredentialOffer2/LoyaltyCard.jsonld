@@ -41,6 +41,7 @@
         "VerifiableCredential",
         "LoyaltyCard"
     ],
+    "issuanceDate" : ""
     "credentialSubject": {
         "id": "",
         "type": "LoyaltyCard",
