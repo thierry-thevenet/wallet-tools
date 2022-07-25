@@ -45,18 +45,16 @@
     "credentialSubject" : {
         "id" : "",
         "type" : "TezLoyaltyCard_1",
-        "agerange" :"18-25",
+        "ageRange" :"18-25",
         "duration" : "360",
         "addressCountry" : "",
         "email" :"",
-        "programName" : "",
+        "programName" : "Tezotopia Loayalty Card 1",
         "associatedAddress" : {
-            "blockchainTezos" : "tz1345765476547654"
+            "blockchainTezos" : ""
         },
         "issuedBy" : {
-            "name" : "The Wine Spririt",
-            "logo" : "https://thewinespirit.co",
-            "address" : "29 rue du Saint Esprit, 31000 Toulouse, France"
+            "name" : "AltMe"
         }
 
     }
