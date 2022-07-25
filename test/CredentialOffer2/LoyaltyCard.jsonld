@@ -2,8 +2,7 @@
     "@context": [
         "https://www.w3.org/2018/credentials/v1",
         {
-            "name": "https://schema.org/name",
-            "description": "https://schema.org/description",
+          
             "LoyaltyCard": {
                 "@context": {
                     "@protected": true,
@@ -13,6 +12,7 @@
                     "familyName": "schema:familyName",
                     "givenName": "schema:givenName",
                     "birthDate" : "schema:birthDate",
+                    "duration" : "schema:duration",
                     "id": "@id",
                     "issuedBy": {
                         "@context": {
@@ -46,6 +46,7 @@
         "type": "LoyaltyCard",
         "familyName": "Thevenet",
         "programName" : "VIP card Ultra",
+        "duration" : "360",
         "issuedBy": {
             "logo": "https://talao.mypinata.cloud/ipfs/QmNwbEEupT7jR2zmrA87FsN4hUS8eXnCxM8DsL9RXc25cu",
             "address" : "",
@@ -53,33 +54,5 @@
         },
         "givenName": "Thierry"
     },
-    "issuer": "",
-     "description": [
-        {
-            "@language": "en",
-            "@value": "Community card to get NFT rewards and benefits."
-        },
-        {
-            "@language": "de",
-            "@value": ""
-        },
-        {
-            "@language": "fr",
-            "@value": "Profitez des avantages et des rewards du jeu Tezotopia."
-        }
-    ],
-    "name": [
-        {
-            "@language": "en",
-            "@value": "Tezotopia Community"
-        },
-        {
-            "@language": "de",
-            "@value": ""
-        },
-        {
-            "@language": "fr",
-            "@value": "Tezotopia community"
-        }
-    ]
+    "issuer": ""
 }
