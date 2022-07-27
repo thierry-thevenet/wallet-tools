@@ -118,19 +118,20 @@
     ],
     "id": "urn:uuid:random",
     "type": ["VerifiableCredential", "TezVoucher_1"],
+    "expirationDate" : "2022-09-08T19:55:00Z",
     "issuer": "did:tz:issuer",
     "credentialSubject" : {
         "id" : "did:wallet",
         "type" : "TezVoucher_1",
         "associatedAddress" : {
-                "blockchainTezos" : "",
+                "blockchainTezos" : "tz1Q7zwo7fmRNyCL7jdz6hcPSsYukkWY66Q3",
                 "blockchainEthereum" : ""
         },
         "offers" : [{
             "startDate" : "2022-04-08T19:55:00Z",
             "endDate" : "2022-06-08T19:55:00Z",
             "category" : "discounted_coupon",
-            "duration" : "",
+            "duration" : "30",
             "benefit" : {
                 "category" : "discount",
                 "discount" : "15%"
