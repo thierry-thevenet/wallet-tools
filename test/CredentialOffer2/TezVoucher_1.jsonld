@@ -127,7 +127,7 @@
                 "blockchainTezos" : "tz1Q7zwo7fmRNyCL7jdz6hcPSsYukkWY66Q3",
                 "blockchainEthereum" : ""
         },
-        "offers" : [{
+        "offers" : {
             "startDate" : "2022-04-08T19:55:00Z",
             "endDate" : "2022-06-08T19:55:00Z",
             "category" : "discounted_coupon",
@@ -146,7 +146,7 @@
                     "blockchainAccount" : ""
                 }
             }
-        }],
+        },
         "issuedBy": {
             "logo": "ipfs://QmZmdndUVRoxiVhUnjGrKnNPn8ah3jT8fxTCLMnAzRAFFZ",
             "name": "Talao",
