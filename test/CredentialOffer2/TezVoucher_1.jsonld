@@ -139,7 +139,7 @@
             "offeredBy": {
                 "logo": "ipfs://QmZmdndUVRoxiVhUnjGrKnNPn8ah3jT8fxTCLMnAzRAFFZ",
                 "name": "GifGames",
-                "description" : "Gaming platform of Tezotopia",
+                "description" : "https://tezotopia.com",
                 "paymentMethod" : {
                     "blockchain" : "Tezos",
                     "currency" : "XTZ",
