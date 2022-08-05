@@ -13,7 +13,6 @@
                     "ageRange" : "schema:ageRange",
                     "addressCountry" : "schema:addressCountry",
                     "duration" : "schema:duration",
-                    "email" : "schema:email",
                     "associatedAddress" : {
                         "@id": "https://schema.org/address",
                         "@context" : {
@@ -48,7 +47,6 @@
         "ageRange" :"18-25",
         "duration" : "360",
         "addressCountry" : "",
-        "email" :"",
         "programName" : "Tezotopia Loayalty Card 1",
         "associatedAddress" : {
             "blockchainTezos" : ""
