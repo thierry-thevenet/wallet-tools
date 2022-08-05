@@ -10,7 +10,7 @@
                     "schema" : "https://schema.org/",
                     "id": "@id",
                     "type": "@type",
-                    "agerange" : "schema:ageRange",
+                    "ageRange" : "schema:ageRange",
                     "addressCountry" : "schema:addressCountry",
                     "duration" : "schema:duration",
                     "email" : "schema:email",
