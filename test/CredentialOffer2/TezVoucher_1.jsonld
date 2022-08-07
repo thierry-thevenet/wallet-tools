@@ -55,6 +55,7 @@
                             "category" : "schema:category",
                             "duration" : "schema:duration",
                             "endDate" : "schema:date",
+                            "analytics" : "schema:website",
                             "benefit" : {
                                 "@id" : "https://github.com/TalaoDAO/context/blob/main/README",
                                 "@context" : {
@@ -132,6 +133,7 @@
             "endDate" : "2022-06-08T19:55:00Z",
             "category" : "discounted_coupon",
             "duration" : "30",
+            "analytics" : "https://talao.co/analytics",
             "benefit" : {
                 "category" : "discount",
                 "discount" : "15%"
