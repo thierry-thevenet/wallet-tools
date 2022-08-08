@@ -19,7 +19,7 @@
             }
         }
     ],
-    "id": "",
+    "id": "urn:uuid:74645654",
     "type": ["VerifiableCredential", "Test"],
     "issuer": "",
     "issuanceDate": "",
