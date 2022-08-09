@@ -56,7 +56,7 @@
     },
     "dateOfBirth": "1993-04-08",
     "familyName": "DOE",
-    "givenNames": "Jane",
+    "givenName": "Jane",
     "gradingScheme": {
       "id": "https://leaston.bcdiploma.com/law-economics-management#GradingScheme",
       "title": "2 year full-time programme / 4 semesters"
