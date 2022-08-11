@@ -133,14 +133,15 @@
             "endDate" : "2022-06-08T19:55:00Z",
             "category" : "discounted_coupon",
             "duration" : "30",
-            "analytics" : "https://talao.co/analytics",
+            "analytics" : "",
             "benefit" : {
                 "category" : "discount",
                 "discount" : "15%"
             },    
             "offeredBy": {
                 "logo": "ipfs://QmZmdndUVRoxiVhUnjGrKnNPn8ah3jT8fxTCLMnAzRAFFZ",
-                "name": "GifGames",
+                "name": "Gif Games",
+                "website" : "https://tezotopia.com/",
                 "description" : "https://tezotopia.com",
                 "paymentMethod" : {
                     "blockchain" : "Tezos",
